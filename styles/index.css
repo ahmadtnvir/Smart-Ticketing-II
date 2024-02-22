@@ -1,22 +1,22 @@
-body{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 .raleway-font {
-    font-family: "Raleway", sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 .inter-all {
-    font-family: "Inter", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .inter-font {
-    font-family: "Inter", sans-serif;
-    font-weight: 400;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
 }
 
 .inter-bold {
-    font-family: "Inter", sans-serif;
-    font-weight: 700;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
 }

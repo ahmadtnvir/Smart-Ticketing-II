@@ -86,7 +86,7 @@ function couponCodeApply() {
         setInnerText('updated-total-price', convertedTotalCost);
 
     }
-    
+
 }
 
 
