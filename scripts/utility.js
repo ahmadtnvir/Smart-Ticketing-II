@@ -1,3 +1,8 @@
+function scrollToSection() {
+    const getSection = document.getElementById('ticket-booking-details')
+    getSection.scrollIntoView({behavior : 'smooth'});
+}
+
 const allBtn = document.getElementsByClassName('seatBtn');
 let count = 0;
 let decreaseSeat = 8;
